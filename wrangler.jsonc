@@ -1,9 +1,0 @@
-{
-  "name": "zain-g-cafe",
-  "compatibility_date": "2024-11-01",
-  "main": ".vinext/server/entry.js",
-  "assets": {
-    "directory": ".vinext/client",
-    "binding": "ASSETS"
-  }
-}
