@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "zain-g-cafe",
-  "main": ".vinext/server/index.js",
+  "main": ".vinext/server/entry.js",
   "compatibility_date": "2026-05-15",
   "compatibility_flags": ["nodejs_compat"],
   "no_bundle": true,
